@@ -204,9 +204,8 @@ class ChuckCore {
       playSound: false,
       largeIcon: DrawableResourceAndroidBitmap(notificationIcon),
     );
-    const iOSPlatformChannelSpecifics = DarwinNotificationDetails(
-      presentSound: false,
-    );
+    const iOSPlatformChannelSpecifics =
+        DarwinNotificationDetails(presentSound: false, presentBanner: false);
     final platformChannelSpecifics = NotificationDetails(
         android: androidPlatformChannelSpecifics,
         iOS: iOSPlatformChannelSpecifics);
