@@ -1,3 +1,35 @@
+## 2.0.9
+
+* Updated dependencies
+
+## 2.0.8
+
+* Updated dependencies
+
+## 2.0.7
+
+* Updated dependencies
+
+## 2.0.6+1
+
+* Updated dependencies
+
+## 2.0.5
+
+* flutter_local_notifications package updated
+
+## 2.0.4
+
+* json viewer ui changes
+
+## 2.0.3
+
+* json viewer ui changes
+
+## 2.0.2
+
+* Updates minimum supported SDK version to Flutter 3.13/Dart 3.1.0
+
 ## 2.0.0+1
 
 * Updated dependencies
